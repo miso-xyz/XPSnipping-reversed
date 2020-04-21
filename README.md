@@ -14,4 +14,4 @@ Tools used (to reverse):
 - %Username% = "Jays"
 - Extracted from installation files
 
-(for more details, [Original Thread (sinister.ly)](https://sinister.ly/Thread-Silver-VS2010-VB-NET-Project-XPSnipping-v1-0-0-12?pid=935429#pid935429)
+(for more details, [Original Thread (sinister.ly)](https://sinister.ly/Thread-Silver-VS2010-VB-NET-Project-XPSnipping-v1-0-0-12)
