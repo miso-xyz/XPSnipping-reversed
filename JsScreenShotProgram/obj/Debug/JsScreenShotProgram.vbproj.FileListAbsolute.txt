@@ -1,0 +1,4 @@
+C:\Users\chara\Documents\cracks\XPSnipping\Application Files\JsScreenShotProgram_1_0_0_12\prj\JsScreenShotProgram\bin\Debug\JsScreenShotProgram.exe
+C:\Users\chara\Documents\cracks\XPSnipping\Application Files\JsScreenShotProgram_1_0_0_12\prj\JsScreenShotProgram\bin\Debug\JsScreenShotProgram.pdb
+C:\Users\chara\Documents\cracks\XPSnipping\Application Files\JsScreenShotProgram_1_0_0_12\prj\JsScreenShotProgram\obj\Debug\JsScreenShotProgram.exe
+C:\Users\chara\Documents\cracks\XPSnipping\Application Files\JsScreenShotProgram_1_0_0_12\prj\JsScreenShotProgram\obj\Debug\JsScreenShotProgram.pdb
