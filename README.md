@@ -2,7 +2,7 @@
 
 Tools used (to reverse):
 - Visual Studio 2010
-- dnSpy (5.0.5, x64)
+- dnSpy (6.1.2, x64)
 
 # .prj Information
 - Built with .NET Framework 3.5
